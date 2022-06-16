@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "MusicReview"
+  "defaultProject": "MusicReview",
+  "cli": {
+    "analytics": "d68915e9-7b40-4b00-970c-2929a504a7cd"
+  }
 }
